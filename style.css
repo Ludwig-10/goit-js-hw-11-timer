@@ -1,0 +1,17 @@
+.timer {
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 40px;
+    cursor: pointer;
+    
+}
+.field {
+    margin-left: 20px;
+    background: rgb(226, 248, 146);
+    border-radius: 50px;
+    padding: 10px;
+}
